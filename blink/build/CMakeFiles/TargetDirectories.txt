@@ -1,0 +1,4 @@
+/home/pi/projects/blink/build/CMakeFiles/edit_cache.dir
+/home/pi/projects/blink/build/CMakeFiles/blink.dir
+/home/pi/projects/blink/build/CMakeFiles/rebuild_cache.dir
+/home/pi/projects/blink/build/CMakeFiles/button.dir
