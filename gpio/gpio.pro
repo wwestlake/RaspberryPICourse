@@ -33,3 +33,9 @@ unix {
     target.path = /usr/lib
     INSTALLS += target
 }
+
+unix|win32: LIBS += -lpigpio
+
+
+INCLUDEPATH += $$PWD/.
+DEPENDPATH += $$PWD/.
