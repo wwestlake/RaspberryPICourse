@@ -1,0 +1,5 @@
+/home/pi/projects/signal_generator/build/CMakeFiles/rebuild_cache.dir
+/home/pi/projects/signal_generator/build/CMakeFiles/edit_cache.dir
+/home/pi/projects/signal_generator/build/sig-gen/CMakeFiles/rebuild_cache.dir
+/home/pi/projects/signal_generator/build/sig-gen/CMakeFiles/sig-gen.dir
+/home/pi/projects/signal_generator/build/sig-gen/CMakeFiles/edit_cache.dir

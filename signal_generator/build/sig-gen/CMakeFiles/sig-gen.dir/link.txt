@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sig-gen.dir/sig-gen.cpp.o -o sig-gen  -lpigpio 
