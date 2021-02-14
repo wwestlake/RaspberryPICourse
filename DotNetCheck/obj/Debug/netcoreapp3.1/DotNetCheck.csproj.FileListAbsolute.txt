@@ -1,0 +1,11 @@
+/home/pi/projects/RaspberryPICourse/DotNetCheck/bin/Debug/netcoreapp3.1/DotNetCheck
+/home/pi/projects/RaspberryPICourse/DotNetCheck/bin/Debug/netcoreapp3.1/DotNetCheck.deps.json
+/home/pi/projects/RaspberryPICourse/DotNetCheck/bin/Debug/netcoreapp3.1/DotNetCheck.runtimeconfig.json
+/home/pi/projects/RaspberryPICourse/DotNetCheck/bin/Debug/netcoreapp3.1/DotNetCheck.runtimeconfig.dev.json
+/home/pi/projects/RaspberryPICourse/DotNetCheck/bin/Debug/netcoreapp3.1/DotNetCheck.dll
+/home/pi/projects/RaspberryPICourse/DotNetCheck/bin/Debug/netcoreapp3.1/DotNetCheck.pdb
+/home/pi/projects/RaspberryPICourse/DotNetCheck/obj/Debug/netcoreapp3.1/DotNetCheck.csprojAssemblyReference.cache
+/home/pi/projects/RaspberryPICourse/DotNetCheck/obj/Debug/netcoreapp3.1/DotNetCheck.AssemblyInfoInputs.cache
+/home/pi/projects/RaspberryPICourse/DotNetCheck/obj/Debug/netcoreapp3.1/DotNetCheck.AssemblyInfo.cs
+/home/pi/projects/RaspberryPICourse/DotNetCheck/obj/Debug/netcoreapp3.1/DotNetCheck.dll
+/home/pi/projects/RaspberryPICourse/DotNetCheck/obj/Debug/netcoreapp3.1/DotNetCheck.pdb
